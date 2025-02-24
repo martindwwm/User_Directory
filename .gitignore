@@ -41,3 +41,9 @@ jspm_packages/
 
 # IDE configurations
 *.iml
+
+# Additional configurations
+eslint.config.js
+package-lock.json
+package.json
+vite.config.js
